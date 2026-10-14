@@ -78,8 +78,7 @@ A local research workspace that retrieves text and figures from PDFs, generates 
 ## Connect
 
 - GitHub: [@prajwal2709](https://github.com/prajwal2709)
-- - LinkedIn: [Prajwal Deshpande](https://www.linkedin.com/in/prajwal-deshpande-8bb201303)
-
+- LinkedIn: [Prajwal Deshpande](https://www.linkedin.com/in/prajwal-deshpande-8bb201303)
 
 <div align="center">
 
